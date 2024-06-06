@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Harshchauhan64
+- 👋 Hi, I’m @Harshchauhan
 - 👀 I’m interested in Machine learning
 - 🌱 I’m currently learning maths required for the ML
 - 💞️ I’m looking to collaborate on projects based on learning the machine learning as well as other structural entities 
