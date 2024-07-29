@@ -1,5 +1,6 @@
-Machine learning Enthusiast
-Student 18 He/Him
+### Machine learning Enthusiast
+### Student 
+### 18 He/Him
 
 <!---
 Harshchauhan64/Harshchauhan64 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
